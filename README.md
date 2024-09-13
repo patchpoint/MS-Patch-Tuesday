@@ -4,11 +4,11 @@
 	<a href="https://patchpoint.io"><img alt="Patchpoint" title="Patchpoint" src="./Logo/p.png"/></a><br>
     <a href="https://patchpoint.io"><img width="32px" alt="Patchpoint" title="Patchpoint" src="./Logo/fap.png"/></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://x.com/_patchpoint_"><img width="32px" alt="Twitter" title="Twitter" src="./logo/x.svg"/></a>
+    <a href="https://x.com/_patchpoint_"><img width="32px" alt="Twitter" title="Twitter" src="./Logo/x.svg"/></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://www.youtube.com/@PatchPointSec"><img width="32px" alt="Youtube" title="Youtube" src="./logo/youtube.png"/></a>
+    <a href="https://www.youtube.com/@PatchPointSec"><img width="32px" alt="Youtube" title="Youtube" src="./Logo/youtube.png"/></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
-    <a href="https://github.com/patchpoint/"><img width="32px" alt="Github" title="Github" src="./logo/github.svg"/></a>
+    <a href="https://github.com/patchpoint/"><img width="32px" alt="Github" title="Github" src="./Logo/github.svg"/></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
