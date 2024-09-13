@@ -1,7 +1,7 @@
 # MS-Patch-Tuesday
 
 <p align="center">
-	<a href="https://patchpoint.io"><img alt="Patchpoint" title="Patchpoint" src="./Logo/p.png"/></a><br>
+    <a href="https://patchpoint.io"><img width="400px" alt="Patchpoint" title="Patchpoint" src="./Logo/github_logo_i.png"/></a><br>
     <a href="https://patchpoint.io"><img width="32px" alt="Patchpoint" title="Patchpoint" src="./Logo/fap.png"/></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
     <a href="https://x.com/_patchpoint_"><img width="32px" alt="Twitter" title="Twitter" src="./Logo/x.svg"/></a>
